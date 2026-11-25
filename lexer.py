@@ -1,0 +1,2 @@
+def gtoken(lista):
+    pass
