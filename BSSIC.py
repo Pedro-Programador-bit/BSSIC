@@ -5,3 +5,5 @@ try:
 except FileNotFoundError:
     print("Erro: arquivo não encontrado!")
     sys.exit(1)
+
+arq.close()
